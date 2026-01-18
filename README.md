@@ -13,8 +13,6 @@ and ML models for real-world use cases such as invoice intelligence,
 fake news detection, and healthcare chatbots.
 </p>
 
-
-
 <h2 align="left">Tech Stack</h2>
 
 <div align="center">
@@ -42,18 +40,27 @@ fake news detection, and healthcare chatbots.
 <h2 align="left">Tools & Platforms</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=n8n" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <!-- n8n -->
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n"/>
+  <img width="20"/>
+
+  <!-- Streamlit -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/streamlit.svg" height="40" alt="Streamlit"/>
+  <img width="20"/>
+
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+  <img width="20"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img width="20"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div>
 
-
+<p align="center"><b>LangChain</b></p>
 
 <h2 align="left">Contact</h2>
 
